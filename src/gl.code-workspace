@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"list": "cpp",
+			"functional": "cpp",
+			"array": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp",
+			"algorithm": "cpp",
+			"istream": "cpp",
+			"streambuf": "cpp",
+			"typeinfo": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"vector": "cpp",
+			"initializer_list": "cpp",
+			"*.tcc": "cpp",
+			"iosfwd": "cpp",
+			"limits": "cpp",
+			"random": "cpp"
+		}
+	}
+}
